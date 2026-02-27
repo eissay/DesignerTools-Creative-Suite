@@ -34,6 +34,7 @@ We built **DesignerTools** to eliminate repetitive tasks. Whether you are a YouT
 
 ## 🛠 Built With
 * **Framework:** Next.js
+* **Backend:** Python (FastAPI/Flask) for core logic & AI processing
 * **Styling:** Tailwind CSS
 * **Infrastructure:** DigitalOcean
 * **AI Models:** OpenAI API & Custom Python Scripts
