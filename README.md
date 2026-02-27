@@ -12,11 +12,12 @@ We built **DesignerTools** to eliminate repetitive tasks. Whether you are a YouT
 
 ### 🖼️ Image Tools
 * **[AI Background Remover](https://designer-tools.app/remove_background)**: Professional-grade BG removal using neural networks.
+* **[Image Converter](https://designer-tools.app/convert)**: Change formats for Images seamlessly.
 * **[Object Remover](https://designer-tools.app/object_remover)**: Clean up your photos by removing unwanted objects.
 * **[Image Upscaler](https://designer-tools.app/upscale)**: Enhance image quality and resolution instantly.
 * **[Image Editor](https://designer-tools.app/image_editor)**: Quick and powerful online photo editing.
 * **[Image Compressor](https://designer-tools.app/image_compressor)**: Reduce file size without losing quality.
-* **[Smart OCR](https://designer-tools.app/ocr)**: Convert images and scanned docs into editable text.
+
 
 ### 🎬 Video & Audio Tools
 * **[Remove Silence](https://designer-tools.app/remove_silence)**: Automatically detect and cut silence from your videos.
@@ -26,7 +27,7 @@ We built **DesignerTools** to eliminate repetitive tasks. Whether you are a YouT
 * **[Subtitle Extractor](https://designer-tools.app/subtitle_extractor)**: Get text captions from your videos easily.
 
 ### 📄 Document & Converter Tools
-* **[Universal Converter](https://designer-tools.app/convert)**: Change formats for Images and Audio seamlessly.
+* **[Smart OCR](https://designer-tools.app/ocr)**: Convert images and scanned docs into editable text.
 * **[Image to PPTX](https://designer-tools.app/image_to_pptx)**: Convert your images into professional PowerPoint slides.
 * **[Word to PDF](https://designer-tools.app/word_pdf_convertor)**: Fast and reliable document conversion.
 
